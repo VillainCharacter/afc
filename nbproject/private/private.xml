@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Pro192">
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/addQuantityProduct.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateCategory.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/categoryManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/vnpay_return.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/addCategory.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/accountManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateBrand.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateProduct.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/addBrand.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/productManage.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/statistic.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/vnpay_pay.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/brandManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateRole.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/Checkout.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/updateAccount.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/DBContext.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/CheckoutVnpay.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/homeAdmin1.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/roleManagerment.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/productDetail.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/banUser.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/allproduct.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/home.jsp</file>
+        </group>
+        <group>
+            <file>file:/D:/FPT%20University/FU_SU24/SWP_391/5.Code/SWP391_VNP/SWP391_V1/src/java/Controller/Checkout.java</file>
+            <file>file:/D:/FPT%20University/FU_SU24/SWP_391/5.Code/SWP391_VNP/SWP391_V1/src/java/Controller/FeedBackServlet.java</file>
+            <file>file:/D:/FPT%20University/FU_SU24/SWP_391/5.Code/SWP391_VNP/SWP391_V1/src/java/Controller/CheckoutVnpay.java</file>
+        </group>
+    </open-files>
+</project-private>
